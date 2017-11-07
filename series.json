@@ -1,0 +1,89 @@
+{
+    "lastRun": 1509894878,
+    "series": [
+        {
+            "imdbId": "0397306",
+            "name": "American Dad!"
+        },
+        {
+            "imdbId": "2193021",
+            "name": "Arrow"
+        },
+        {
+            "imdbId": "0182576",
+            "name": "Family Guy"
+        },
+        {
+            "imdbId": "0944947",
+            "name": "Game Of Thrones"
+        },
+        {
+            "imdbId": "3749900",
+            "name": "Gotham"
+        },
+        {
+            "imdbId": "4532368",
+            "name": "Legends of Tomorrow"
+        },
+        {
+            "imdbId": "2364582",
+            "name": "Marvel's Agents of S.H.I.E.L.D."
+        },
+        {
+            "imdbId": "3322312",
+            "name": "Marvel's Daredevil"
+        },
+        {
+            "imdbId": "1442437",
+            "name": "Modern Family"
+        },
+        {
+            "imdbId": "4158110",
+            "name": "Mr. Robot"
+        },
+        {
+            "imdbId": "1843230",
+            "name": "Once Upon A Time"
+        },
+        {
+            "imdbId": "1586680",
+            "name": "Shameless (US)"
+        },
+        {
+            "imdbId": "1475582",
+            "name": "Sherlock"
+        },
+        {
+            "imdbId": "2575988",
+            "name": "Silicon Valley"
+        },
+        {
+            "imdbId": "4574334",
+            "name": "Stranger Things"
+        },
+        {
+            "imdbId": "1632701",
+            "name": "Suits"
+        },
+        {
+            "imdbId": "4016454",
+            "name": "Supergirl"
+        },
+        {
+            "imdbId": "0460681",
+            "name": "Supernatural"
+        },
+        {
+            "imdbId": "0898266",
+            "name": "The Big Bang Theory"
+        },
+        {
+            "imdbId": "3107288",
+            "name": "The Flash"
+        },
+        {
+            "imdbId": "5511582",
+            "name": "Timeless"
+        }
+    ]
+}

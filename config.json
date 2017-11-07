@@ -1,0 +1,12 @@
+{
+    "directories": {
+        "torrent": "torrents",
+        "database": "series.json",
+        "log": "logs.txt"
+    },
+    "notification": {
+        "toAddr": "personal.email@gmail.com",
+        "login": "botemail@gmail.com",
+        "password": "mySecre7Passw0rd"
+    }
+}
